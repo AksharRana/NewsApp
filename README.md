@@ -1,5 +1,5 @@
-# NewsApp
-
+# NewsApp 
+A REACT APP.
 This project was bootstrapped with Create React App.
 
 Available Scripts
